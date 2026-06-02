@@ -1,6 +1,7 @@
 # Andrea Amor De Castro | Personal Portfolio
 
 ## Description
+
 This is my personal portfolio website created to showcase my profile, skills, projects, education, and contact information. The website was developed using HTML, CSS, and JavaScript and serves as a platform to highlight my academic achievements, technical skills, and creative works.
 
 As a Bachelor of Science in Information Technology student at STI College of Tanay, this portfolio reflects my passion for technology, system development, and graphic design while demonstrating my ability to create responsive and user-friendly web interfaces.
@@ -8,6 +9,7 @@ As a Bachelor of Science in Information Technology student at STI College of Tan
 ---
 
 ## Features
+
 * Responsive design for desktop and mobile devices
 * Sticky navigation bar
 * Animated sections on scroll
@@ -20,6 +22,7 @@ As a Bachelor of Science in Information Technology student at STI College of Tan
 ---
 
 ## Technologies Used
+
 * HTML5
 * CSS3
 * JavaScript
@@ -30,6 +33,7 @@ As a Bachelor of Science in Information Technology student at STI College of Tan
 ---
 
 ## Profile
+
 **Andrea Amor L. De Castro**
 Bachelor of Science in Information Technology
 STI College of Tanay
@@ -41,13 +45,15 @@ Motivated and dedicated college student pursuing a Bachelor of Science in Inform
 ## Projects
 
 ### ClinicSync
+
 A desktop-based clinic information system that streamlines the management and retrieval of patient medical records.
 
 ### Electric Vehicle Hub
+
 A web-based platform that provides information about electric vehicles and sustainable transportation.
 
-
 ### Graphic Design Projects
+
 * Brochure Design
 * Logo Design
 * Flyer Design
@@ -81,18 +87,25 @@ A web-based platform that provides information about electric vehicles and susta
 
 [Insert GitHub Repository Link Here]
 
+Example:
+
+https://github.com/andy-numero/andrea-portfolio
+
 ---
 
 ## Live Website
 
 [Insert GitHub Pages URL Here]
 
+Example:
+
+https://andy-numero.github.io/andrea-portfolio/
+
 ---
 
 ## Author
 
-Andrea De Castro
+Andrea Amor L. De Castro
 
 STI College of Tanay
-
 Bachelor of Science in Information Technology
