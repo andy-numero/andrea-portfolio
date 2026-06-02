@@ -91,7 +91,8 @@ A web-based platform that provides information about electric vehicles and susta
 
 ## Author
 
-Andrea Amor L. De Castro
+Andrea De Castro
 
 STI College of Tanay
+
 Bachelor of Science in Information Technology
