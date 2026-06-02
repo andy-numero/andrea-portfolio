@@ -39,11 +39,13 @@ Motivated and dedicated college student pursuing a Bachelor of Science in Inform
 ---
 
 ## Projects
+
 ### ClinicSync
 A desktop-based clinic information system that streamlines the management and retrieval of patient medical records.
 
 ### Electric Vehicle Hub
 A web-based platform that provides information about electric vehicles and sustainable transportation.
+
 
 ### Graphic Design Projects
 * Brochure Design
