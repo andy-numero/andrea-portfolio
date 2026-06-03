@@ -8,19 +8,6 @@ As a Bachelor of Science in Information Technology student at STI College of Tan
 
 ---
 
-## Features
-
-* Responsive design for desktop and mobile devices
-* Sticky navigation bar
-* Animated sections on scroll
-* Skills showcase
-* Project gallery
-* Education timeline
-* Contact information section
-* Modern and professional user interface
-
----
-
 ## Technologies Used
 
 * HTML5
@@ -29,36 +16,6 @@ As a Bachelor of Science in Information Technology student at STI College of Tan
 * Font Awesome
 * Google Fonts
 * GitHub Pages
-
----
-
-## Profile
-
-**Andrea Amor L. De Castro**<br>
-Bachelor of Science in Information Technology<br>
-STI College of Tanay
-
-Motivated and dedicated college student pursuing a Bachelor of Science in Information Technology. Equipped with strong analytical, organizational, and leadership skills developed through academics and extracurricular involvement.
-
----
-
-## Projects
-### System Development Projects
-
-* **ClinicSync**<br>
-A desktop-based clinic information system that streamlines the management and retrieval of patient medical records.
-
-* **Electric Vehicle Hub**<br>
-A web-based platform that provides information about electric vehicles and sustainable transportation.
-
-### Graphic Design Projects
-
-* Brochure Design
-* Logo Design
-* Flyer Design
-* Booklet Design
-* Infographic Design
-* Presentation Design
 
 ---
 
@@ -94,12 +51,6 @@ A web-based platform that provides information about electric vehicles and susta
 
 <img width="1366" height="720" alt="contact" src="https://github.com/user-attachments/assets/904703b5-4104-4f51-b584-a0d22ed68a1f" />
 
-
----
-
-## GitHub Repository
-
-https://github.com/andy-numero/andrea-portfolio
 
 ---
 
